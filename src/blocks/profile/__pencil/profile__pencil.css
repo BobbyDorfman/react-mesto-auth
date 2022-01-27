@@ -1,0 +1,14 @@
+.profile__pencil {
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    margin: auto;
+    padding: 0;
+}
+
+@media screen and (max-width: 1000px) {
+    .profile__pencil {
+        width: 7.5px;
+        height: 7.5px;
+    }
+}

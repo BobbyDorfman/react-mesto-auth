@@ -1,0 +1,15 @@
+.element {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 282px;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 1000px) {
+    .element {
+        margin: auto;
+    }
+}

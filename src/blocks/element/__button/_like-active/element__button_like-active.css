@@ -1,0 +1,4 @@
+.element__button_like-active {
+    background-image: url(../../../../image/Union.svg);
+    transition: all 0.4s ease-in-out;
+}

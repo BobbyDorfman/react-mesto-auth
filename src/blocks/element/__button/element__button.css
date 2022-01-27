@@ -1,0 +1,16 @@
+.element__button {
+    background: #fff;
+    border: none;
+    display: flex;
+    height: 19px;
+    margin: 0;
+    outline: none;
+    padding: 0;
+    transition: all .4s ease-in-out;
+    width: 22px;
+}
+
+.element__button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}

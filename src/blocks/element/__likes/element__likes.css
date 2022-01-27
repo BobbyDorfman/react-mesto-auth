@@ -1,0 +1,8 @@
+.element__likes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 35px;
+    width: 22px;
+    margin: auto 20px auto 0;
+}

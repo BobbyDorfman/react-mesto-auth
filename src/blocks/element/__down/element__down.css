@@ -1,0 +1,8 @@
+.element__down {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    z-index: 3;
+}

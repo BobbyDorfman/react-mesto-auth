@@ -1,0 +1,16 @@
+.popup__subtitle {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    text-align: left;
+    margin-bottom: 30px;
+    padding: 0 0 13px 0;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.popup__subtitle:last-of-type {
+    margin-bottom: 0;
+}
