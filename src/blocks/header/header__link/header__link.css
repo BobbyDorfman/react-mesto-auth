@@ -1,0 +1,17 @@
+.header__link {
+    text-decoration: none;
+    height: 22px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    color: #A9A9A9;
+    transition: all .4s ease-in-out;
+}
+
+.header__link:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
