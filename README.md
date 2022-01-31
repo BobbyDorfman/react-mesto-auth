@@ -23,7 +23,7 @@
 
 ## Ссылка на GitHub Pages
 
-https://bobbydorfman.github.io/mesto-react/
+https://bobbydorfman.github.io/react-mesto-auth/
 
 ## Установка необходимых компонентов:
 - Установить Node.js: https://nodejs.org/en/
