@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mesto-react/static/css/main.cb6442b5.css",
-    "main.js": "/mesto-react/static/js/main.ed4d48e6.js",
+    "main.css": "/mesto-react/static/css/main.a52be77c.css",
+    "main.js": "/mesto-react/static/js/main.4d63d784.js",
     "static/media/Inter-Medium.woff?v=3.19": "/mesto-react/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff?v=3.19": "/mesto-react/static/media/Inter-Black.c6938660eec019fefd68.woff",
     "static/media/Inter-Regular.woff?v=3.19": "/mesto-react/static/media/Inter-Regular.8c206db99195777c6769.woff",
@@ -12,16 +12,18 @@
     "static/media/Like.svg": "/mesto-react/static/media/Like.1ad06e85f169668a1f36abf192872ec3.svg",
     "index.html": "/mesto-react/index.html",
     "static/media/delete_2.svg": "/mesto-react/static/media/delete_2.2af49b82d305a6ea3442447eb7c26bea.svg",
+    "static/media/Error.svg": "/mesto-react/static/media/Error.df8eddf661ff88f2d0efd3d570d14309.svg",
+    "static/media/Done.svg": "/mesto-react/static/media/Done.1b6082f862eac35e2514460237d96ecc.svg",
     "static/media/Union.svg": "/mesto-react/static/media/Union.35948469632d0421d697.svg",
     "static/media/Edit.svg": "/mesto-react/static/media/Edit.6c7bf05444b9793fdf6e73a2dd202e7e.svg",
     "static/media/edit_avatar.svg": "/mesto-react/static/media/edit_avatar.a086f758840ae814ecde.svg",
     "static/media/Close_Icon.svg": "/mesto-react/static/media/Close_Icon.039f1f5203f653b4bacde5e34ee2810b.svg",
     "static/media/Add_button.svg": "/mesto-react/static/media/Add_button.bed8c136e13907f5eefb86d62a5fe29e.svg",
-    "main.cb6442b5.css.map": "/mesto-react/static/css/main.cb6442b5.css.map",
-    "main.ed4d48e6.js.map": "/mesto-react/static/js/main.ed4d48e6.js.map"
+    "main.a52be77c.css.map": "/mesto-react/static/css/main.a52be77c.css.map",
+    "main.4d63d784.js.map": "/mesto-react/static/js/main.4d63d784.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6442b5.css",
-    "static/js/main.ed4d48e6.js"
+    "static/css/main.a52be77c.css",
+    "static/js/main.4d63d784.js"
   ]
 }
