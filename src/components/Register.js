@@ -27,12 +27,14 @@ function Register(props) {
                     className="login__input"
                     type="email"
                     placeholder="Email"
+                    value={email}
                     onChange={handleMailInput}
                 />
                 <input
                     className="login__input"
                     type="password"
                     placeholder="Пароль"
+                    value={password}
                     onChange={handlePasswordInput}
                 />
                 <button className="login__button" type="submit" onSubmit={handleSubmit}>Зарегистрироваться</button>
