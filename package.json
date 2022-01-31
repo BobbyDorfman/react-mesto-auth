@@ -1,11 +1,11 @@
 {
-  "name": "mesto-react",
+  "name": "react-mesto-auth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bobbydorfman.github.io/mesto-react/",
+  "homepage": "https://bobbydorfman.github.io/react-mesto-auth/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BobbyDorfman/mesto-react.git"
+    "url": "git+https://github.com/BobbyDorfman/react-mesto-auth.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
