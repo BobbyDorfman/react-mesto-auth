@@ -1,0 +1,12 @@
+.popup__image {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto;
+    padding: 60px 155px 32px;
+}
+
+@media screen and (max-width: 600px){
+    .popup__image {
+        padding: 50px 80px 0 80px;
+    }
+}

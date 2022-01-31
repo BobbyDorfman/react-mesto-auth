@@ -4,7 +4,7 @@
     background: #fff;
     border-radius: 10px;
     position: relative;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -12,5 +12,7 @@
     .popup__container {
         width: 282px;
         min-height: 322px;
+        margin: 0 auto;
+        padding: 0;
     }
 }
